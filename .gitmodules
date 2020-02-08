@@ -1,0 +1,3 @@
+[submodule "SubModuleDemoLib"]
+	path = SubModuleDemoLib
+	url = https://github.com/yang0range/SubModuleDemoLib.git
